@@ -219,7 +219,7 @@ export default {
         appearance: none;
 
         &:hover{
-            background: rgb(95, 95, 95);
+            background: rgb(255, 255, 255);
         }
 
         &focus{
