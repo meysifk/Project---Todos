@@ -36,10 +36,11 @@ export default {
 
 #nav {
   padding: 30px;
+  padding-top: 10px;
 
   a {
-    font-weight: bold;
-    color: #2c3e50;
+    font-weight: normal;
+    color: #b3b3b3;
 
     &.router-link-exact-active {
       color: #42b983;
