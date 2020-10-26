@@ -5,7 +5,7 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
       <a href="https://www.google.com/">Google</a> |
-      <a href="https://github.com/meysifk/Project-TodoList---Vue.js">Github</a>
+      <a href="https://github.com/meysifk/Project---Todos">Github</a>
     </div>
   </header>
 </template>
