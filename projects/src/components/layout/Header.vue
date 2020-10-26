@@ -1,6 +1,6 @@
 <template>
   <header class="header">
-    <h1>TodoList</h1>
+    <h1>TODOSLIST</h1>
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
@@ -19,7 +19,7 @@ export default {
 <style scoped>
 
 *{
-font-family: sans-serif;
+font-family: helvetica;
 }
   .header {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";  
@@ -38,14 +38,12 @@ font-family: sans-serif;
     background: #333;
     color: #fff;
     text-align: center;
+
+
   }
 
   .header a {
     color: #fff;
-    padding-right: 5px;
-    padding-bottom: 10px;
-    padding-left: 5px;
-    padding-top: 10px;
     text-decoration: none;
     font-size: 25px;
   }
